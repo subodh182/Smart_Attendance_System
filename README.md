@@ -218,8 +218,7 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 For any questions or suggestions, feel free to reach out:
 
-Name: Ayush Gangwar
+Name: Subodh Singh
 
-Email: arya119000@gmail.com
-GitHub: https://github.com/Arya182-ui
+GitHub: https://github.com/subodh182
 
