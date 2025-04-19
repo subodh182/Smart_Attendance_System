@@ -129,8 +129,6 @@ The filename format is: Subject_Date_Time.csv.
 
 **Face Detection: Detects faces using Haar Cascade.**
 
-**Face Recognition: Matches faces with trained data using the LBPH algorithm.**
-
 **Data Storage: Automatically marks attendance in real time.**
 
 **Manual Attendance**
